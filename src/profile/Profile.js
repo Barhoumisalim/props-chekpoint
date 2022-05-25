@@ -15,7 +15,7 @@ const Profile = (props) => {
 }
 Profile.defaultProps= {
     fullname :'Mohammed',
-    bio:'mmm',
+    bio:'',
     profession:'Student'
 }
 Profile.prototype={
